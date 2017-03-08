@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="style.css">
+<meta charset="utf-8">
+<head>
+	<title>test</title>
+</head>
+<body>
+
 <?php
 $nom= 'chambonnier';
 $prenom='vincent';
@@ -36,3 +45,5 @@ echo $calcule2;
 $calcule3=45/5;
 echo $calcule3;
 ?>
+</body>
+</html>
